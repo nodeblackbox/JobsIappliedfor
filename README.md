@@ -2,7 +2,7 @@
 
 Running log of my job applications, with proof for my advisor.
 
-**Progress: 7 / 10 applications** · 3 to go
+**Progress: 8 / 10 applications** · 2 to go
 
 ## Applications
 
@@ -15,6 +15,7 @@ Running log of my job applications, with proof for my advisor.
 | 5 | 2026-10-09 | G-Research | (role title not recorded) | Applied | n/a | London | [Notes](applications/2026-10-09_g-research.md) | [Confirmation email](proof/2026-10-09_g-research_confirmation-email.png) |
 | 6 | 2026-10-09 | VectorStackAI | AI/ML Research Engineer | Applied | $60k–$120k, no equity | Amsterdam / remote | [Notes](applications/2026-10-09_vectorstackai_ai-ml-research-engineer.md) | [Confirmation email](proof/2026-10-09_vectorstackai_ai-ml-research-engineer.png) |
 | 7 | 2026-10-08 | G-Research | Graduate Machine Learning Engineer (R3760) | Applied | n/a | London | [Notes](applications/2026-10-08_g-research_graduate-ml-engineer.md) | [Confirmation email](proof/2026-10-08_g-research_graduate-ml-engineer_confirmation-email.png) |
+| 8 | 2026-10-09 | JPMorgan Chase | Senior Lead Software Engineer, Global Banking (210793615) | Applied | n/a | London | [Notes](applications/2026-10-09_jpmorgan_sr-lead-software-engineer.md) | [Confirmation email](proof/2026-10-09_jpmorgan_sr-lead-software-engineer_confirmation-email.png) |
 
 ## Open items
 - Speechmatics: confirm the application was actually sent, then mark it Applied.
