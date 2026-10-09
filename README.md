@@ -2,7 +2,7 @@
 
 Running log of my job applications, with proof for my advisor.
 
-**Progress: 6 / 10 applications** · 4 to go
+**Progress: 7 / 10 applications** · 3 to go
 
 ## Applications
 
@@ -14,10 +14,11 @@ Running log of my job applications, with proof for my advisor.
 | 4 | 2026-10-08 | Abbas & Lilith | Technical Co-Founder / CTO | Applied | £60k–£66k + 3–5% equity | London / UK remote | [Notes](applications/2026-10-08_abbas-lilith_technical-cofounder-cto.md) | [Screenshot](proof/2026-10-08_abbas-lilith_technical-cofounder-cto.png) |
 | 5 | 2026-10-09 | G-Research | (role title not recorded) | Applied | n/a | London | [Notes](applications/2026-10-09_g-research.md) | [Confirmation email](proof/2026-10-09_g-research_confirmation-email.png) |
 | 6 | 2026-10-09 | VectorStackAI | AI/ML Research Engineer | Applied | $60k–$120k, no equity | Amsterdam / remote | [Notes](applications/2026-10-09_vectorstackai_ai-ml-research-engineer.md) | [Confirmation email](proof/2026-10-09_vectorstackai_ai-ml-research-engineer.png) |
+| 7 | 2026-10-08 | G-Research | Graduate Machine Learning Engineer (R3760) | Applied | n/a | London | [Notes](applications/2026-10-08_g-research_graduate-ml-engineer.md) | [Confirmation email](proof/2026-10-08_g-research_graduate-ml-engineer_confirmation-email.png) |
 
 ## Open items
 - Speechmatics: confirm the application was actually sent, then mark it Applied.
-- G-Research: add the role title.
+- G-Research (#5): add the role title, and check whether #5 and #7 are the same application.
 
 ## Layout
 - `applications/` one page per application: job details, answers submitted, notes.
