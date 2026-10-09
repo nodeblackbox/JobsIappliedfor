@@ -2,7 +2,7 @@
 
 Running log of my job applications, with proof for my advisor.
 
-**Progress: 9 / 10 applications** · 1 to go
+**Progress: 10 / 10 applications** · target reached
 
 ## Applications
 
@@ -17,9 +17,11 @@ Running log of my job applications, with proof for my advisor.
 | 7 | 2026-10-08 | G-Research | Graduate Machine Learning Engineer (R3760) | Applied | n/a | London | [Notes](applications/2026-10-08_g-research_graduate-ml-engineer.md) | [Confirmation email](proof/2026-10-08_g-research_graduate-ml-engineer_confirmation-email.png) |
 | 8 | 2026-10-09 | JPMorgan Chase | Senior Lead Software Engineer, Global Banking (210793615) | Applied | n/a | London | [Notes](applications/2026-10-09_jpmorgan_sr-lead-software-engineer.md) | [Confirmation email](proof/2026-10-09_jpmorgan_sr-lead-software-engineer_confirmation-email.png) |
 | 9 | 2026-10-09 | Catches | AI Engineer (via Dex) | In review | up to £250k | Europe remote | [Notes](applications/2026-10-09_catches_ai-engineer.md) | [Screenshot](proof/2026-10-09_catches_ai-engineer_dex-application.png) |
+| 10 | 2026-10-09 | CompliMind | Founding Engineer (via Dex) | In review | up to £120k | London 3 days/wk + Cambridge | [Notes](applications/2026-10-09_complimind_founding-engineer.md) | [Screenshot](proof/2026-10-09_complimind_founding-engineer_dex-application.png) |
 
 ## Open items
 - Catches (#9): fix the Leviathan end date on the CV ("Dec 2026" is in the future) and keep PitchDeck.ai claims consistent with the JPMorgan letter.
+- CompliMind (#10): confirm the 3 office days are in London or Cambridge, and that the "requires a UK visa" box was not ticked (UK citizen).
 - Speechmatics: confirm the application was actually sent, then mark it Applied.
 - G-Research (#5): add the role title, and check whether #5 and #7 are the same application.
 
